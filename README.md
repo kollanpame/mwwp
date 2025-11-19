@@ -8,6 +8,7 @@ Test of main and advanced Git functions
 
 ## Features
 HTML page 
+The most accurate Perry the Platypus biography
 
 
 
